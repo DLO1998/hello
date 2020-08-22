@@ -9,7 +9,7 @@
 
 int main(int argc, char **argv) {
 
-    printf("Dylan Lowery\n");
+    printf("Dylan Lowery!\n");
 
     return 0;
 
